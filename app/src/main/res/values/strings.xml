@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HimatikaApp</string>
+    <string name="selamat_datang_text">Selamat Datang!</string>
+    <string name="deskripsi_text">Silahkan masuk / mendaftar untuk \nmenggunakan aplikasi Himatika</string>
+    <string name="masuk_text">MASUK</string>
+    <string name="daftar_text">DAFTAR</string>
+    <string name="informatics_text">INFORMATICS</string>
+</resources>
