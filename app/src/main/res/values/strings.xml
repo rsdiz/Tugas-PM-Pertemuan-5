@@ -5,4 +5,7 @@
     <string name="masuk_text">MASUK</string>
     <string name="daftar_text">DAFTAR</string>
     <string name="informatics_text">INFORMATICS</string>
+    <string name="made_with_text">MADE WITH ♥ FOR</string>
+    <string name="organization_name">HIMATIKA UTY</string>
+    <string name="condes_logo_himatika">Logo Himatika UTY</string>
 </resources>
