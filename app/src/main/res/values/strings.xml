@@ -18,4 +18,10 @@
     <string name="lost_password_text">Lupa Password?</string>
     <string name="hint_password_text">Password</string>
     <string name="hint_username_text">Username</string>
+    <string name="greeting_register">Buat Akun Baru</string>
+    <string name="greeting_desc_register">Silahkan masukkan data pribadi anda,\ndan mulailah terhubung bersama kami.</string>
+    <string name="hint_name_text">Nama Lengkap</string>
+    <string name="condes_fb_register">Register with Facebook</string>
+    <string name="condes_google_register">Register with Google</string>
+    <string name="condes_linkedin_register">Register with Linkedin</string>
 </resources>
